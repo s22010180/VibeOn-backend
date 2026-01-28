@@ -1,0 +1,4 @@
+fastapi[standard]
+supabase
+python-dotenv
+google-generativeai
